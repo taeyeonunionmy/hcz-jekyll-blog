@@ -1,33 +1,33 @@
 [
   {
     "text": "Home",
-    "url": "/",
+    "https://taeyeonunionmy.github.io/xox": "/",
     "icon": "fa-home",
     "layout": "post"
   },
   {
     "text": "About",
-    "url": "/about/",
+    "https://taeyeonunionmy.github.io/xox": "/about/",
     "icon": "fa-comments"
   },
   {
     "text": "Projects",
-    "url": "/projects",
+    "https://taeyeonunionmy.github.io/xox": "/projects",
     "icon": "fa-desktop"
   },
   {
     "text": "Resume",
-    "url": "/#",
+    "https://taeyeonunionmy.github.io/xox": "/#",
     "icon": "fa-graduation-cap",
   },
   {
     "text": "Github",
-    "url": "/#",
+    "https://taeyeonunionmy.github.io/xox": "/#",
     "icon": "fa-github"
   },
   {
     "text": "XML Feed",
-    "url": "/feed.xml",
+    "https://taeyeonunionmy.github.io/xox": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
   }
